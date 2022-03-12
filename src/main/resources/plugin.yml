@@ -1,0 +1,7 @@
+name: Antipyro
+version: 1.0.0
+main: com.ddang_.antipyro.Antipyro
+api-version: 1.18
+authors: [ DDang_ ]
+depend:
+  - Kotlin
